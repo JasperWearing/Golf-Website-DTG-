@@ -332,7 +332,8 @@ footer {
     padding: 40px;
 }
 .aboutus{
-    max-width: 1200px; 
+    max-width: 1200px;
+    padding-bottom: 40px; 
 }
 .centr{
     display: flex;
