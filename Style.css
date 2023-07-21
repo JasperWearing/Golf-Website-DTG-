@@ -342,5 +342,6 @@ footer {
 }
 .Homesquare{
     max-height: 350px;
-    width: auto;
+    width: 100%;
+    height: auto;
 }
